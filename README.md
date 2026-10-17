@@ -26,13 +26,14 @@ Run a PUBG Mobile or Free Fire scrim or tournament and get the standings in seco
 
 ## More apps by Q8Core
 
-| App | What it does | |
-|---|---|---|
-| [RouterPilot](https://github.com/Q8core/RouterPilot) | Tune your home router for lower ping | Free · Android |
-| [Qore DualLink](https://github.com/Q8core/Qore-DualLink) | Use all your internet connections at once | Free · Windows · Linux |
-| [PDF Toolkit Free](https://github.com/Q8core/PDF-Toolkit-Free) | Offline PDF tools + Arabic/English OCR | Free · Windows · Linux |
-| [DeviceDeck](https://q8core.com/app/devicedeck.html) | Mirror & control your Android phone from your PC | Pro · Windows · Linux |
-| [Auto-Tap](https://q8core.com/app/auto-tap.html) | Repeat taps in any app at the spot and speed you pick | Pro · Android |
+| App | Why it's worth it | Runs on | Price |
+|---|---|---|---|
+| [**RouterPilot**](https://github.com/Q8core/RouterPilot) | **Lower ping** in PUBG Mobile, Free Fire and CoD: finds the fastest DNS and the best 4G/5G bands for your router, with a live game-ping mode | Android | **Free** |
+| [**Qore DualLink**](https://github.com/Q8core/Qore-DualLink) | Use **up to 16 internet connections at once** — Ethernet, Wi-Fi and USB phones — so downloads get the **sum** of your lines | Windows · Linux | **Free** |
+| [**DeviceDeck**](https://q8core.com/app/devicedeck.html) | **Control your PC from your phone** — share your Windows/Linux desktop to any phone, tablet or computer browser and use it like you're sitting there. No internet, no accounts: cable, same Wi-Fi or hotspot. It also mirrors your Android on the PC (mouse = touch, keyboard types), installs APKs by drag-and-drop and records the screen | Windows · Linux (+ phone app, no Play Store needed) | $9.99 once |
+| [**Auto-Tap**](https://q8core.com/app/auto-tap.html) | A floating bar that **taps any spots you choose, at the speed you set, in any app** — keeps going while you switch apps. No root | Android | $4.99 once |
+| [**PDF Toolkit Free**](https://github.com/Q8core/PDF-Toolkit-Free) | Every PDF tool + offline Arabic & English OCR, 3 results a day | Windows · Linux · Android | **Free** |
+| [**CodeForge**](https://q8core.com/app/codeforge.html) | Learn **Python and Bash from zero to expert** — 1,008 lessons in 78 tracks, with a built-in editor that runs **real** Python and Bash on your own device, fully offline | Windows · Linux · Android | $14.99 once |
 
 **All apps: [q8core.com](https://q8core.com)**
 
